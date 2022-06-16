@@ -8,6 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
+
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -22,6 +23,10 @@ header h1 {
 
 header h1 .seo {
     color: #d9dcd6;
+}
+
+footer h3 .seo {
+    color: #2589bd;
 }
 
 header nav {
